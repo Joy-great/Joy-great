@@ -26,13 +26,24 @@ Both men and woman can make use of cosmetic according to the product for it purp
 Use the cosmetics according to the instructions written on it. 
  </p>
  </details>
+ 
+<details>
+ <summary>PRODUCTION</summary>
+ <p> 
+  <b> Get in touch with me for the production of cosmetics</b> 
+
+Emai: ibikunlejoy2022@gmail.com
+</p>
+</details>
 
  <body>
   <header>
-Cosmetics are composed of mixtures of chemical compounds derived from either natural sources or synthetically created ones.[1] Cosmetics have various purposes. Those designed for personal care and skin care can be used to cleanse or protect the body and skin. Cosmetics designed to enhance or alter one's appearance (makeup) can be used to conceal blemishes, enhance one's natural features (such as the eyebrows and eyelashes), add color to a person's face, or change the appearance of the face entirely to resemble a different person, creature or object.[2] Cosmetics can also be designed to add fragrance to the body.
-  </footer>
+<p> Cosmetics are composed of mixtures of chemical compounds derived from either natural sources or synthetically created ones.[1] Cosmetics have various purposes. Those designed for personal care and skin care can be used to cleanse or protect the body and skin.
+</p>
   </body>
+   
+   <footer>
+   <p> Cosmetics designed to enhance or alter one's appearance (makeup) can be used to conceal blemishes, enhance one's natural features (such as the eyebrows and eyelashes), add color to a person's face, or change the appearance of the face entirely to resemble a different person, creature or object.[2] Cosmetics can also be designed to add fragrance to the body.
+  </footer>
+  </p>
 
-<b> Get in touch with me for the production of cosmetics</b> 
-
-Emai: ibikunlejoy2022@gmail.com
