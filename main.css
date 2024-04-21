@@ -57,4 +57,27 @@ body {
 ================================
 =============================
 === */ 
-h1, h2, h3 {    font-family: Satisfy, cursive;    font-weight: 400;    line-height: 1; /* 1.4 * the font size */    margin: 0;}h1 {    font-size: 3em; /* 16 * 3 = 48 */    margin-bottom: .15em; /* 16 * .15 = 2.4 */}section h1 {    font-size: 2em; /* 16 * 2 = 32 */}p, dl, ol, ul {    margin-top: 0;    margin-bottom: 1.25em; /* 16 * 1.2 = 20 */}a {    color: green;    text-decoration: none;    border-bottom: 1px dotted;    -webkit-transition: background .5s, color .5s;       -moz-transition: background .5s, color .5s;        -ms-transition: background .5s, color .5s;            transition: background .5s, color .5s;}    a:hover,    a:focus,    a:active {        color: red;        border-bottom-style: solid;    }cite {    font-style: normal;}/* ===============================
+h1, h2, h3 {  
+font-family: Satisfy, cursive;  
+  font-weight: 400; 
+  line-height: 1; /* 1.4 * the font size 
+  */  
+  margin: 0;
+}
+h {  
+  font-size: 3em; /* 16 * 3 = 48 */
+  margin-bottom: .15em; /* 16 * .15 = 2.4 */
+}
+section h1 {  
+font-size: 2em; /* 16 * 2 = 32 */
+}
+p, dl, ol, ul {   
+  margin-top: 0;   
+  margin-bottom: 1.25em; /* 16 * 1.2 
+  = 20 */
+}
+a {    
+  color: green;   
+  text-decoration: none;  
+  border-bottom: 1px dotted;   
+  -webkit-transition: background .5s, color .5s;       -moz-transition: background .5s, color .5s;        -ms-transition: background .5s, color .5s;            transition: background .5s, color .5s;}    a:hover,    a:focus,    a:active {        color: red;        border-bottom-style: solid;    }cite {    font-style: normal;}/* ===============================
